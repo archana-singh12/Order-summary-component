@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-    width: min(1440px, 28%);
+    width: min(1440px, 26%);
     display: flex;
     align-items: center;
     justify-content: center;
